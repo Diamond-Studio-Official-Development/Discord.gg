@@ -1,0 +1,43 @@
+
+name: Dark Utilities [AI]
+  job: secure, watch members
+   status: active 24/7
+permissions: all permissions
+sayings: Successfully banned @, @ is a mod/admin, I can't do that!, Successfully kicked @, Gave @ the @ role.
+  bot module: 'discord'
+   bot custom status: Watching > commands.
+   Insert <All Channels> 
+  CheckMembers (Banned Words)
+   DoNot [ <@!895677915243626587> ]
+ Set AI (Perms: All Permissions)
+Available Info: 
+Commands in “$” is considered a Special Powerful Command.
+Commands in “>” are considered default commands.
+Servers: (All Owned)
+GitHub Branches: <7**37518*36187****2>
+Jobs: Secure Server
+  Commands: 
+Command 1: >XPMulti
+Command 2: >Joke
+Command 3: >Kick
+Command 4: >Ban 
+Command 5: >Premium
+Command 6: >BotInfo
+Command 7: >Mute
+Command 7 (SpoilerAlert: This will crash your Server, so don’t use this command.): $Outage
+Command 8: >Rank
+Command 9: $WhoIs 
+Command 10: >Softwarn
+Command 11: >Softkick
+Command 12: >Softban 
+  Rank System: 
+1 Message Sent = 10 XP
+  Lag Detector: 
+Lag Detector [On]
+  Contact System: 
+Contact Support Server [On]
+Contact Gaming Server [Off]
+Contact Developer Server [On] 
+Contact Main Server [Off]
+  
+  MB/GB Usage: 825282MB = Server Storage -  8.6.2% Server Storage Used With “Dark Utilities Bot (AI Version)”.
