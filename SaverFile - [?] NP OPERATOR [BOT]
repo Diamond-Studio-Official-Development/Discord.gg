@@ -321,3 +321,67 @@ giveaway reroll
 Rolls a new winner for a ended giveaway.
 ?giveaway giveaway reroll [message ID/message link] (winner to reroll)
 
+Info Commands: 
+afk
+Set an AFK status to display when you are mentioned
+?afk
+afk set
+Set an AFK status shown when you're mentioned, and display in nickname.
+?afk set [status]
+afk ignore
+Use in a channel to not return from AFK when talking in that channel.
+?afk ignore [channel]
+afk reset
+Reset the AFK status message to default for a member.
+?afk reset [user]
+afk clear
+Remove the AFK status of a member.
+?afk clear [user]
+afk list
+List AFK statuses. (moderator only)
+?afk list
+remindme
+Set a reminder
+?remindme [time] [reminder]
+color
+Show a color using hex.
+avatar
+Get a users' avatar.
+?avatar [user]
+dynoavatar
+Generates a Dyno-like avatar.
+?dynoav
+randomcolor
+Generates a random hex color with preview.
+?randomcolor
+whois
+Get user information.
+?whois [user mention]
+distance
+Get the distance between two sets of coordinates
+?distance [coords] [coords]
+membercount
+Get the server member count.
+?membercount
+discrim
+Gets a list of users with a discriminator
+?discrim 1234
+emotes
+Gets a list of server emojis.
+?emotes
+serverinfo
+Get server info/stats.
+?serverinfo
+covid
+Get COVID-19 stats.
+?covid
+covid country
+Get stats for a country.
+?covid country [country]
+covid state
+Get stats for a US state.
+?covid state [state]
+covid top
+List top countries by cases.
+?covid top
+
